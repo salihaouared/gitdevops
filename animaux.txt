@@ -1,0 +1,6 @@
+lion
+girafe
+tigre
+elephant
+chat
+léopard
