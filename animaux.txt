@@ -5,4 +5,8 @@ elephant
 chat
 léopard
 chien 
+<<<<<<< HEAD
 lama
+=======
+licorne
+>>>>>>> demo
